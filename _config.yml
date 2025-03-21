@@ -5,5 +5,3 @@ google_analytics: true
 theme: jekyll-theme-hacker
 github:
   google_url: "https://google.com"
-  button_text: "Download Google"
-
