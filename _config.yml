@@ -1,5 +1,5 @@
 title: Franks | Portfolio
 description: Showcasing what I build, break, and create. 
-show_downloads: false
+show_downloads: true
 google_analytics: true
 theme: jekyll-theme-hacker
