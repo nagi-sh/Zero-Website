@@ -13,7 +13,7 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 - **Technical Skills:** SIEM, threat analysis, Windows security, networking (CCNA-level)  
 - **Background:** Built complex network topologies, managed endpoints with Intune, and have strong security operations experience.
 
-<hr style="border: 1px solid #ccc; margin: 20px 0;>
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
 
 <div style="display: flex; gap 100px;">
   <a href="https://www.credly.com/badges/eda603c2-8af8-485f-84f9-8b2901f35842/public_url">
