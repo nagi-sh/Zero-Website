@@ -17,7 +17,7 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 
 <div style="display: flex; gap 100px;">
   <a href="https://www.credly.com/badges/eda603c2-8af8-485f-84f9-8b2901f35842/public_url">
-    <img src="https://images.credly.com/size/110x110/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png">
+    <img src="https://images.credly.com/size/110x110/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png" style="width: 50px; height: 50px;">
   </a>
 </div>
 
