@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to My Page
 
 ## About Me  
@@ -5,12 +9,19 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 
 ### Certifications & Experience  
 - **Certifications:** GSEC (GIAC Security Essentials)  
-- **Current Studies:** CySA+, A+ (soon), GCIH (sponsored)  
+- **Current Studies:** A+ (soon), CySA+
 - **Technical Skills:** SIEM, threat analysis, Windows security, networking (CCNA-level)  
 - **Background:** Built complex network topologies, managed endpoints with Intune, and have strong security operations experience.  
+***
+<div style="display: flex; gap 100px;">
+  <a href="https://www.credly.com/badges/eda603c2-8af8-485f-84f9-8b2901f35842/public_url">
+    <img src=>
+  </a>
+</div>
 
 ### Goals  
 - Complete my **bachelor’s degree in 6 months**  
 - Earn **CySA+ and GCIH**  
-- Transition into a **SOC role**, then move into **penetration testing**  
+- Transition into a **SOC role**, then move into **penetration testing**
+
 
