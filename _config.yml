@@ -4,4 +4,6 @@ show_downloads: true
 google_analytics: true
 theme: jekyll-theme-hacker
 github:
-  google_url: "https://google.com"
+  linkedin_url: "http://www.linkedin.com/in/frank-sotelo-security-analyst"
+  rick_roll_url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  
