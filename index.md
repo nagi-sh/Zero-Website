@@ -21,6 +21,8 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
   </a>
 </div>
 
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
+
 ### Goals  
 - Complete my **bachelor’s degree in 6 months**  
 - Earn **CySA+ and GCIH**  
