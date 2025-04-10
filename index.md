@@ -24,8 +24,8 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
 ## Showcase of my homelab and projects
-- [Network Lab](./projects/network-lab.html)
-- [More Coming Soon]()
+### [Network Lab](./projects/network-lab.html)
+### [More Coming Soon]()
 
 ### Goals  
 - Complete my **bachelor’s degree in 6 months**  
