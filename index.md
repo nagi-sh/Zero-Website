@@ -17,7 +17,7 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 
 <div style="display: flex; gap 100px;">
   <a href="https://www.credly.com/badges/eda603c2-8af8-485f-84f9-8b2901f35842/public_url">
-    <img src="https://images.credly.com/size/110x110/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png" style="width: 50px; height: 50px;">
+    <img src="https://images.credly.com/size/110x110/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png" style="width: 100px; height:100px;">
   </a>
 </div>
 
@@ -25,7 +25,7 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 
 ### Goals  
 - Complete my **bachelor’s degree in 6 months**  
-- Earn **CySA+ and GCIH**  
+- Earn **CySA+ and Network+**  
 - Transition into a **SOC role**, then move into **penetration testing**
 
 
