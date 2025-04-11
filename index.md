@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# 👋 Welcome to My Portfolio! 
+# 👋-Welcome to My Portfolio! 
 
 ## About Me  
 I'm a cybersecurity professional on the path to becoming a penetration tester. Currently working as a SOC intern while pursuing my bachelor's degree at WGU. I have hands-on experience with threat detection, network security, and system hardening.
 
 --- 
 
-## 🎓 Education
+## 🎓-Education
 
 ### Bachelors of Science in Cybersecurity (Currently Enrolled)  
 **Western Governors University, Salt Lake City, UT**  
@@ -39,8 +39,8 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 
 ---
 
-# 💻 Showcase of my homelab and projects
-## [🌐Network Lab](./projects/network-lab.html)
+# 💻 Showcasing my Homelab and Projects
+## [🌐-Network Lab](./projects/network-lab.html)
 ## [More Coming Soon]()
 
 ---
