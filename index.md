@@ -11,7 +11,7 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 
 ## Education
 
-### Bachelor’s in Cybersecurity (Currently Enrolled)  
+### Bachelors of Science in Cybersecurity (Currently Enrolled)  
 **Western Governors University, Salt Lake City, UT**  
 Expected Graduation: June, 2026
 
@@ -21,10 +21,6 @@ Graduation Date: 2022 - 2024
 Relevant Courses: network security, System Administration, and Cybersecurity Fundamentals
 GPA: 3.6
 
-Associate of Science in Cybersecurity
-Pasadena City College
-Graduation Date: [Insert Date]
-Relevant Courses: Network Security, Ethical Hacking, System Hardening, Incident Response.
 ## Certifications & Experience  
 - **Certifications:** GSEC (GIAC Security Essentials)  
 - **Current Studies:** A+ (soon), CySA+
@@ -76,7 +72,7 @@ Relevant Courses: Network Security, Ethical Hacking, System Hardening, Incident 
 
 
 ## Goals  
-- Complete my **bachelor’s degree in 6 months**  
+- Complete my **Bachelor’s degree in the next year**  
 - Earn **CySA+ and Network+**  
 - Transition into a **SOC role**, then move into **penetration testing**
 
