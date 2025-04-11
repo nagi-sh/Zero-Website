@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-    <!-- Your site stylesheet -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
     {% include head-custom.html %}
+
     {% seo %}
   </head>
 
   <body>
+
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
@@ -28,7 +28,9 @@
             <a href="{{ site.github.linkedin_url }}" class="btn">
               <i class="fab fa-linkedin" style="margin-right: 5px;"></i>LinkedIn
             </a>
-            <a href="{{ site.github.rick_roll_url }}" class="btn">Virus_Download</a>
+            <a href="{{ site.github.THM_url }}" class="btn">
+              <i class="fas fa-user-secret" style="margin-right: 5px;"></i>TryHackMe
+            </a>
           {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github">
             <span class="icon"></span>View on GitHub
@@ -42,5 +44,6 @@
         {{ content }}
       </section>
     </div>
+
   </body>
 </html>
