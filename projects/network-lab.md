@@ -12,9 +12,27 @@ title: Network Lab
 ## Project Overview
 This project simulates the deployment of an enterprise-grade network infrastructure spanning four major office locations: Los Angeles (HQ), San Diego, San Francisco, and New York. The environment includes core switching, router configurations, wireless, voice, and security integrations using Cisco technologies. The goal was to apply CCNA-level knowledge to create a scalable, redundant, and secure network using best practices.
 
+<!-- Image Container -->
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="../Assets/Network_Lab/Network_Topology.png" alt="Network Topology" style="width: 700px; height:500px;">
+  <img id="networkTopology" src="../Assets/Network_Lab/Network_Topology.png" alt="Network Topology" style="cursor: pointer; max-width: 100%; height: auto;" onclick="expandImage()" />
 </div>
+
+<!-- Expanded Image (Hidden by Default) -->
+<div id="expandedImageContainer" style="display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0, 0, 0, 0.8); justify-content: center; align-items: center; z-index: 9999;">
+  <img id="expandedImage" src="../Assets/Network_Lab/Network_Topology.png" alt="Expanded Network Topology" style="max-width: 90%; max-height: 90%; cursor: pointer;" onclick="closeImage()" />
+</div>
+
+<!-- JavaScript to Expand/Close Image -->
+<script>
+  function expandImage() {
+    document.getElementById("expandedImageContainer").style.display = "flex";
+  }
+
+  function closeImage() {
+    document.getElementById("expandedImageContainer").style.display = "none";
+  }
+</script>
+
 
 ## Network Design Breakdown
 
