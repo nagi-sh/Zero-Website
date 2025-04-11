@@ -21,15 +21,12 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-        <!-- Live TryHackMe Stats Embed -->
-	<div style="text-align: left; margin-bottom: 20px;">
-  	 <iframe
-    	    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3820071"
-    	    style="border: none; height: 200px; width: 100%; max-width: 500px;"
-    	    title="TryHackMe Live Stats"
-    	 ></iframe>
-	</div>
-
+        <!-- TryHackMe Stats Image -->
+        <div style="text-align: left; margin-bottom: 15px;">
+         	<a href="{{ site.github.THM_url }}" title="Visit My TryHackMe Profile" target="_blank">
+ 				<img src="https://tryhackme-badges.s3.amazonaws.com/nagi.sh.png" alt="TryHackMe Stats" style="height: 90px;">
+			</a>
+        </div>
 
         <!-- Custom Buttons -->
         <section id="downloads">
