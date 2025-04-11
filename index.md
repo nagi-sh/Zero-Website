@@ -40,7 +40,7 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 ---
 
 # 💻 Showcase of my homelab and projects
-## [🌐 Network Lab](./projects/network-lab.html)
+## [🌐Network Lab](./projects/network-lab.html)
 ## [More Coming Soon]()
 
 ---
@@ -56,65 +56,65 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
   </thead>
   <tbody>
     <tr>
-      <td>🐧Operating Systems</td>
+      <td>🐧-Operating Systems</td>
       <td>Windows 10/11, Linux (basic), macOS, Chrome OS</td>
     </tr>
     <tr>
-      <td>👥Active Directory Management</td>
+      <td>👥-Active Directory Management</td>
       <td>Active Directory, PowerShell, Active Roles</td>
     </tr>
     <tr>
-      <td>🛡️Endpoint Security</td>
+      <td>🛡️-Endpoint Security</td>
       <td>SentinelOne, Malwarebytes, Carbon Black</td>
     </tr>
     <tr>
-      <td>⚔️Incident Response &amp; Monitoring</td>
+      <td>⚔️-Incident Response &amp; Monitoring</td>
       <td>Splunk, Microsoft Defender, ProofPoint-TRAP, ANY.RUN, VirusTotal, URLScan.io</td>
     </tr>
     <tr>
-      <td>🚀Security Automation</td>
+      <td>🚀-Security Automation</td>
       <td>PowerShell, Intune</td>
     </tr>
     <tr>
-      <td>🧱Configuration Hardening</td>
+      <td>🧱-Configuration Hardening</td>
       <td>CIS Benchmarks, Intune, Windows Security Baselines</td>
     </tr>
     <tr>
-      <td>📨Security Awareness</td>
+      <td>📨-Security Awareness</td>
       <td>Proofpoint Awareness Platform, Phishing Simulations</td>
     </tr>
     <tr>
-      <td>📃Scripting &amp; Reporting</td>
+      <td>📃-Scripting &amp; Reporting</td>
       <td>PowerShell, Excel (AD exports), SharePoint</td>
     </tr>
     <tr>
-      <td>🔍Threat Detection &amp; Hunting</td>
+      <td>🔍-Threat Detection &amp; Hunting</td>
       <td>Splunk, SentinelOne, YARA, Shodan</td>
     </tr>
     <tr>
-      <td>🔓Access &amp; Identity Management</td>
+      <td>🔓-Access &amp; Identity Management</td>
       <td>Conditional Access Policies, Azure AD</td>
     </tr>
     <tr>
-      <td>📡Network &amp; Device Management</td>
+      <td>📡-Network &amp; Device Management</td>
       <td>Smart UPS (APC), Intune, SentinelOne Dynamic Groups</td>
     </tr>
     <tr>
-      <td>📥Security Dashboards</td>
+      <td>📥-Security Dashboards</td>
       <td>Splunk (custom dashboards), SentinelOne Policy Matrix</td>
     </tr>
     <tr>
-      <td>🚩Threat Intelligence Frameworks</td>
+      <td>🚩-Threat Intelligence Frameworks</td>
       <td>MITRE ATT&amp;CK, NIST Cybersecurity Framework</td>
     </tr>
     <tr>
-      <td>🔐Password Management</td>
+      <td>🔐-Password Management</td>
       <td>Self-hosted On-Prem Password Manager (researched &amp; deployed)</td>
     </tr>
   </tbody>
 </table>
 
-###🧠Soft Skills
+### 🧠-Soft Skills
 
 - Strong written and verbal communication
 - Critical thinking and analytical problem-solving
@@ -127,7 +127,7 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 
 ---
 
-#📈 Goals  
+# 📈-Goals  
 - Complete my **Bachelor’s degree in the next year**  
 - Earn **CySA+ and Network+**  
 - Transition into a **SOC role**, then move into **penetration testing**
