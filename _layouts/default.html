@@ -23,7 +23,7 @@
 
         <!-- TryHackMe Stats Image -->
         <div style="text-align: left; margin-bottom: 15px;">
-          <img src="https://tryhackme-badges.s3.amazonaws.com/nagi.sh.png" alt="TryHackMe Stats" style="height: 40px;">
+          <img src="https://tryhackme-badges.s3.amazonaws.com/nagi.sh.png" alt="TryHackMe Stats" style="height: 80px;"> <!-- Adjusted image size -->
         </div>
 
         <!-- Custom Buttons -->
@@ -38,6 +38,9 @@
               </svg>
               TryHackMe
             </a>
+            <a href="{{ site.github.repository_url }}" class="btn" title="View on GitHub">
+              <i class="fab fa-github" style="margin-right: 5px;"></i>GitHub
+            </a>
           {% endif %}
         </section>
       </div>
@@ -46,5 +49,6 @@
     <main id="content" class="container">
       {{ content }}
     </main>
+
   </body>
 </html>
